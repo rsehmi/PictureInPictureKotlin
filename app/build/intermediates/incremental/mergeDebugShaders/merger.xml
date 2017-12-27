@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/usr/local/google/home/rsehmi/Projects/3.1_Canary_6/PictureInPictureKotlin/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/usr/local/google/home/rsehmi/Projects/3.1_Canary_6/PictureInPictureKotlin/app/src/debug/shaders"/></dataSet></merger>

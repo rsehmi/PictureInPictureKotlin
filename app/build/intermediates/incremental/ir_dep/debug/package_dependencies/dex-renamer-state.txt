@@ -1,0 +1,4 @@
+#Thu Dec 21 11:37:12 PST 2017
+base.0=/usr/local/google/home/rsehmi/Projects/3.1_Canary_6/PictureInPictureKotlin/app/build/intermediates/transforms/dexMerger/debug/29
+path.0=classes.dex
+renamed.0=classes.dex
